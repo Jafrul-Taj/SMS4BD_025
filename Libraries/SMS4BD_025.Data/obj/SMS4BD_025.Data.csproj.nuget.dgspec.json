@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\work\\SMS4BD_025\\Libraries\\SMS4BD_025.Data\\SMS4BD_025.Data.csproj": {}
+  },
+  "projects": {
+    "H:\\work\\SMS4BD_025\\Libraries\\SMS4BD_025.Data\\SMS4BD_025.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\work\\SMS4BD_025\\Libraries\\SMS4BD_025.Data\\SMS4BD_025.Data.csproj",
+        "projectName": "SMS4BD_025.Data",
+        "projectPath": "H:\\work\\SMS4BD_025\\Libraries\\SMS4BD_025.Data\\SMS4BD_025.Data.csproj",
+        "packagesPath": "C:\\Users\\Jafrul Hasan Taj\\.nuget\\packages\\",
+        "outputPath": "H:\\work\\SMS4BD_025\\Libraries\\SMS4BD_025.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jafrul Hasan Taj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

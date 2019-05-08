@@ -1,0 +1,7 @@
+H:\work\SMS4BD_025\SMS4BD_025.Web\bin\Debug\netcoreapp2.2\SMS4BD_025.Web.deps.json
+H:\work\SMS4BD_025\SMS4BD_025.Web\bin\Debug\netcoreapp2.2\SMS4BD_025.Web.runtimeconfig.json
+H:\work\SMS4BD_025\SMS4BD_025.Web\bin\Debug\netcoreapp2.2\SMS4BD_025.Web.runtimeconfig.dev.json
+H:\work\SMS4BD_025\SMS4BD_025.Web\bin\Debug\netcoreapp2.2\SMS4BD_025.Web.dll
+H:\work\SMS4BD_025\SMS4BD_025.Web\obj\Debug\netcoreapp2.2\SMS4BD_025.Web.csproj.CoreCompileInputs.cache
+H:\work\SMS4BD_025\SMS4BD_025.Web\obj\Debug\netcoreapp2.2\SMS4BD_025.Web.AssemblyInfoInputs.cache
+H:\work\SMS4BD_025\SMS4BD_025.Web\obj\Debug\netcoreapp2.2\SMS4BD_025.Web.AssemblyInfo.cs
